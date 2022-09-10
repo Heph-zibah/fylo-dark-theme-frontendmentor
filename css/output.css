@@ -562,3 +562,12 @@ video {
 .justify-between {
   justify-content: space-between;
 }
+
+.bg-darkBlueMain {
+  --tw-bg-opacity: 1;
+  background-color: hsl(218 28% 13% / var(--tw-bg-opacity));
+}
+
+.font-openSans {
+  font-family: Open Sans, san-serif;
+}

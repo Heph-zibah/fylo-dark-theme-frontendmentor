@@ -3,7 +3,6 @@ module.exports = {
   content: ['./*.html'],
   theme: {
     fontFamily: {
-      publicSans: ['Public Sans', 'sans-serif'],
       openSans: ['Open Sans', 'san-serif'],
       raleway: ['Raleway', 'sans-serif']
     },
